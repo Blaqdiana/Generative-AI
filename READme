@@ -1,0 +1,68 @@
+# Generative AI Course - Udacity
+
+Welcome to the Generative AI Course offered by Udacity! This course is designed to provide you with a comprehensive understanding of generative models and their applications in various fields.
+
+## Course Overview
+
+In this course, you will learn about:
+
+- The fundamentals of generative models
+- Different types of generative models such as GANs, VAEs, and autoregressive models
+- Techniques for training and evaluating generative models
+- Applications of generative models in image, text, and audio generation
+
+## Prerequisites
+
+To get the most out of this course, you should have:
+
+- Basic knowledge of machine learning and deep learning
+- Familiarity with Python programming
+- Understanding of neural networks and their architectures
+
+## Course Structure
+
+The course is divided into the following modules:
+
+1. **Introduction to Generative Models**
+    - Overview of generative models
+    - Applications and use cases
+
+2. **Generative Adversarial Networks (GANs)**
+    - Understanding GANs
+    - Training and evaluating GANs
+    - Applications of GANs
+
+3. **Variational Autoencoders (VAEs)**
+    - Introduction to VAEs
+    - Training VAEs
+    - Applications of VAEs
+
+4. **Autoregressive Models**
+    - Understanding autoregressive models
+    - Training and evaluating autoregressive models
+    - Applications of autoregressive models
+
+5. **Advanced Topics**
+    - Conditional generative models
+    - Semi-supervised learning with generative models
+    - Recent advancements in generative AI
+
+## Getting Started
+
+To get started with the course, follow these steps:
+
+1. Enroll in the course on the Udacity platform.
+2. Set up your development environment by installing the required software and libraries.
+3. Follow the instructions in each module to complete the lessons and assignments.
+
+## Resources
+
+- [Udacity Course Page](https://www.udacity.com/course/generative-ai)
+- [Python Documentation](https://docs.python.org/3/)
+- [TensorFlow Documentation](https://www.tensorflow.org/)
+
+## Contact
+
+If you have any questions or need assistance, please reach out to the course instructors through the Udacity platform.
+
+Happy learning!
